@@ -45,3 +45,7 @@
 ![failed image](https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/bandicam%202021-10-25%2019-11-57-099.jpg)
 
 ![failed image](https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/bandicam%202021-10-25%2019-12-25-815.jpg)
+
+![failed image](https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/bandicam%20Screenshot_2021-10-26-13-20-46-95.png)
+
+![failed image](https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/bandicam%20Screenshot_2021-10-26-13-21-04-34.png)
