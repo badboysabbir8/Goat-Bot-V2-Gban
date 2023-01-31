@@ -1,0 +1,51 @@
+{
+  "100004775071822": {
+    "reason": "Leak code",
+    "proof": [
+      ""
+    ],
+    "date": "2021-08-16T04:28:34.730Z"
+  },
+  "100005303558824": {
+    "reason": "Leak code",
+    "proof": [
+      ""
+    ],
+    "date": "2021-08-16T04:29:09.706Z"
+  },
+  "100056992160405": {
+    "reason": "Unauthorized use of api",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/DATA.md"
+    ],
+    "date": "2021-10-25T12:51:28.013Z"
+  },
+  "100004253741257": {
+    "reason": "Unauthorized use of api",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/DATA.md"
+    ],
+    "date": "2021-10-25T12:51:29.095Z"
+  },
+  "100017608866967": {
+    "reason": "Unauthorized use of api",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/DATA.md"
+    ],
+    "date": "2021-10-25T12:51:30.977Z"
+  },
+  "100033478361032": {
+    "reason": "Unauthorized use of api",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Unauthorized%20use%20of%20api/DATA.md"
+    ],
+    "date": "2021-10-25T12:51:31.909Z"
+  },
+  "100027620889134": {
+    "reason": "insult, swear",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/IMG_20230110_223503.jpg"
+    ],
+    "date": "2023-01-10T16:09:05.032Z"
+  }
+}
