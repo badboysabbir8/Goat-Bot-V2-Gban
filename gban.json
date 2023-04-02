@@ -47,5 +47,26 @@
       "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/IMG_20230110_223503.jpg"
     ],
     "date": "2023-01-10T16:09:05.032Z"
-  }
+  },
+	"100007865524400": {
+		"reason": "insult, swear",
+		"proof": [
+			"https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100007865524400.jpg"
+		],
+		"date": "2023-04-02T12:34:20+0000"
+	},
+	"100027147853596": {
+		"reason": "another account of 100007865524400",
+		"proof": [
+			"https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100027147853596.jpg"
+		],
+		"date": "2023-04-02T12:34:20+0000"
+	},
+	"1582969466": {
+		"reason": "another account of 100007865524400",
+		"proof": [
+			"https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/1582969466.jpg"
+		],
+		"date": "2023-04-02T12:34:20+0000"
+	}
 }
