@@ -48,32 +48,59 @@
     ],
     "date": "2023-01-10T16:09:05.032Z"
   },
-	"100007865524400": {
-		"reason": "insult, swear",
-		"proof": [
-			"https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100007865524400.jpg"
-		],
-		"date": "2023-04-02T12:34:20+0000"
-	},
-	"100027147853596": {
-		"reason": "another account of 100007865524400",
-		"proof": [
-			"https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100027147853596.jpg"
-		],
-		"date": "2023-04-02T12:34:20+0000"
-	},
-	"1582969466": {
-		"reason": "another account of 100007865524400",
-		"proof": [
-			"https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/1582969466.jpg"
-		],
-		"date": "2023-04-02T12:34:20+0000"
-	},
-	"100001643746628": {
-		"reason": "insult, swear",
-		"proof": [
-			"https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100001643746628.jpg"
-		],
-		"date": "2023-04-14T07:42:09+0000"
-	}
+  "100007865524400": {
+    "reason": "insult, swear",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100007865524400.jpg"
+    ],
+    "date": "2023-04-02T12:34:20+0000"
+  },
+  "100027147853596": {
+    "reason": "another account of 100007865524400",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100027147853596.jpg"
+    ],
+    "date": "2023-04-02T12:34:20+0000"
+  },
+  "1582969466": {
+    "reason": "another account of 100007865524400",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/1582969466.jpg"
+    ],
+    "date": "2023-04-02T12:34:20+0000"
+  },
+  "100001643746628": {
+    "reason": "insult, swear",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Insult%2C%20Swear/100001643746628.jpg"
+    ],
+    "date": "2023-04-14T07:42:09+0000"
+  },
+  "100074591152479": {
+    "reason": "Change copyright",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100074591152479_1.jpeg",
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100074591152479_2.jpeg",
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100074591152479_3.jpeg"
+    ],
+    "date": "2023-05-10T16:40:11+0000"
+  },
+  "100090427119367": {
+    "reason": "another account of 100074591152479",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100074591152479_1.jpeg",
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100074591152479_2.jpeg",
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100074591152479_3.jpeg"
+    ],
+    "date": "2023-05-10T16:40:11+0000"
+  },
+  "100080263513055": {
+    "reason": "Change copyright",
+    "proof": [
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100080263513055_1.jpeg",
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100080263513055_2.jpeg",
+      "https://github.com/ntkhang03/Data-Gban-GoatBot-Project/blob/master/Change%20copyright/100080263513055_3.jpeg"
+    ],
+    "date": "2023-05-10T16:40:11+0000"
+  }
 }
